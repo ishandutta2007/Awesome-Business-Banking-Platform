@@ -1,6 +1,6 @@
 # Awesome-Business-Banking-Platform
 
-# Similar Projects to Business Banking Platforms
+## Similar Projects to Business Banking Platforms
 
 **Business Banking Platforms** (also called startup banks or neobanks for business) provide modern checking accounts, corporate cards, cash management, payments, and financial tooling tailored for startups, SMBs, and freelancers. Leading platforms include Mercury, Brex, Rho, Relay Financial, Bluevine, Found, Novo, NorthOne, Grasshopper, and Meow.
 
@@ -8,11 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Mercury](https://mercury.com/)** — Popular business banking platform for startups, offering checking accounts, cards, wires, and financial tools with a strong developer focus.
-- **[Brex](https://www.brex.com/)** — Corporate card and business banking platform widely used by venture-backed companies.
-- **[Rho](https://www.rho.co/)** — All-in-one finance platform combining banking, cards, bill pay, expenses, and treasury for startups and scale-ups.
-- **[Relay Financial](https://relayfi.com/)** — Business banking focused on multi-account cash management and team spending controls.
-- **[Bluevine](https://www.bluevine.com/)**, **[Found](https://found.com/)**, **[Novo](https://www.novo.co/)**, **[NorthOne](https://www.northone.com/)**, **[Grasshopper](https://www.grasshopper.bank/)**, **[Meow](https://www.meow.com/)** — Digital business banking and cash-management solutions serving startups, small businesses, and freelancers.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Mercury](https://mercury.com/)** | Popular business banking platform for startups, offering checking accounts, cards, wires, and financial tools with a strong developer focus. | Free | No monthly fees, free domestic/USD international wires |
+| **[Brex](https://www.brex.com/)** | Corporate card and business banking platform widely used by venture-backed companies. | Free (Premium tiers exist) | No monthly fees or minimums |
+| **[Rho](https://www.rho.co/)** | All-in-one finance platform combining banking, cards, bill pay, expenses, and treasury for startups and scale-ups. | Free | No monthly fees or minimums, free wires |
+| **[Relay Financial](https://relayfi.com/)** | Business banking focused on multi-account cash management and team spending controls. | Free (Pro is $30/mo) | Up to 20 checking accounts, 50 virtual cards |
+| **[Bluevine](https://www.bluevine.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free (Premier is $95/mo) | Unlimited transactions, no minimum balance |
+| **[Found](https://found.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free (Plus is $19.99/mo) | Unlimited invoicing, standard transactions |
+| **[Novo](https://www.novo.co/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free | No monthly fees, free ACH transfers |
+| **[NorthOne](https://www.northone.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | $10/month | No free tier |
+| **[Grasshopper](https://www.grasshopper.bank/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free | Unlimited transactions, cash back on debit |
+| **[Meow](https://www.meow.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Custom | N/A |
 
 ## 🔓 Open-Source Software
 

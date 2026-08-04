@@ -1,2 +1,52 @@
 # Awesome-Business-Banking-Platform
 
+# Similar Projects to Business Banking Platforms
+
+**Business Banking Platforms** (also called startup banks or neobanks for business) provide modern checking accounts, corporate cards, cash management, payments, and financial tooling tailored for startups, SMBs, and freelancers. Leading platforms include Mercury, Brex, Rho, Relay Financial, Bluevine, Found, Novo, NorthOne, Grasshopper, and Meow.
+
+Below is a **curated list** of notable platforms and their open-source equivalents. Fully equivalent open-source business banking products do not exist in the traditional sense because real banking requires banking licenses, sponsor banks, and regulatory compliance. Open-source strength lies in core banking engines, ledgers, and fintech infrastructure that organizations (or licensed partners) can use to build similar experiences.
+
+## 🏢 SaaS / Hosted Platforms
+
+- **[Mercury](https://mercury.com/)** — Popular business banking platform for startups, offering checking accounts, cards, wires, and financial tools with a strong developer focus.
+- **[Brex](https://www.brex.com/)** — Corporate card and business banking platform widely used by venture-backed companies.
+- **[Rho](https://www.rho.co/)** — All-in-one finance platform combining banking, cards, bill pay, expenses, and treasury for startups and scale-ups.
+- **[Relay Financial](https://relayfi.com/)** — Business banking focused on multi-account cash management and team spending controls.
+- **[Bluevine](https://www.bluevine.com/)**, **[Found](https://found.com/)**, **[Novo](https://www.novo.co/)**, **[NorthOne](https://www.northone.com/)**, **[Grasshopper](https://www.grasshopper.bank/)**, **[Meow](https://www.meow.com/)** — Digital business banking and cash-management solutions serving startups, small businesses, and freelancers.
+
+## 🔓 Open-Source Software
+
+### Open-Source Core Banking & Neobank Infrastructure
+- **[Apache Fineract](https://fineract.apache.org/)** — The most established open-source core banking platform. Provides accounts, loans, savings, transactions, and portfolio management. Widely used as the foundation for digital financial services and can power business banking products when paired with a licensed bank or BaaS partner.
+- **[FinAegis](https://finaegis.org/)** — Modern open-source core banking infrastructure built with domain-driven design, event sourcing, and CQRS. Includes modules for accounts, payments, compliance, multi-asset support, and Banking-as-a-Service patterns.
+- Emerging open-source neobank and ledger projects (search GitHub for production-grade double-entry ledgers and microservices-based banking platforms) that demonstrate full account, wallet, and transaction systems.
+
+### Supporting Open-Source Fintech Building Blocks
+- Open-source double-entry ledger and accounting engines that form the system of record for any banking product.
+- Identity, KYC/KYB orchestration tools (some with open-source cores) for customer onboarding.
+- Payment orchestration and open banking API frameworks.
+- Self-hosted finance dashboards and cash-management tools that businesses can run alongside traditional bank accounts.
+
+### Related Open-Source Tools
+- Personal and small-business finance managers (e.g., Firefly III) that offer strong multi-account tracking, though they are not full banking platforms.
+- Open-source CRM and expense tools that complement business banking workflows.
+
+### Reality Check & Typical Approach
+True FDIC-insured business checking, debit/credit cards, and payment rails cannot be fully replicated in pure open source without a banking charter or sponsor-bank partnership. Most teams that want an “open” stack currently:
+
+1. Use a commercial business banking platform (Mercury, Rho, Relay, etc.) for the regulated account and cards.
+2. Layer open-source core banking, ledger, or analytics tools for internal control, custom products, or multi-entity reporting.
+3. Or partner with Banking-as-a-Service providers while running open-source components for the customer-facing experience and ledger.
+
+Open-source core banking projects remain the closest foundation for anyone building a new digital bank or embedded finance product.
+
+---
+
+**How to contribute**  
+Fork this repository, add a new project (with link + short description + category), and open a pull request.  
+Prefer actively maintained open-source projects related to core banking, neobank infrastructure, business finance ledgers, or Banking-as-a-Service components.
+
+**License**  
+This list is public domain / CC0. Feel free to copy into your own awesome list or README.
+
+Star the projects you find useful — open banking infrastructure helps more teams build transparent and customizable financial products! 🏦

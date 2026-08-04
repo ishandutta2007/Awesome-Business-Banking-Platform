@@ -2,6 +2,9 @@
 
 # Awesome-Business-Banking-Platform
 
+**Discover the ultimate collection of business banking platforms, neobanks for startups, and open-source fintech infrastructure. Find the best checking accounts, corporate cards, and cash management solutions tailored for SMBs and freelancers.**
+
+
 ## 🚀 Similar Projects to Business Banking Platforms
 
 **Business Banking Platforms** (also called startup banks or neobanks for business) provide modern checking accounts, corporate cards, cash management, payments, and financial tooling tailored for startups, SMBs, and freelancers. Leading platforms include Mercury, Brex, Rho, Relay Financial, Bluevine, Found, Novo, NorthOne, Grasshopper, and Meow.

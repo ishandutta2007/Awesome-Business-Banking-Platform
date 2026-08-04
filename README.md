@@ -1,3 +1,5 @@
+![Banner](assets/banner.svg)
+
 # Awesome-Business-Banking-Platform
 
 ## Similar Projects to Business Banking Platforms
@@ -8,24 +10,24 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Mercury](https://mercury.com/)** | Popular business banking platform for startups, offering checking accounts, cards, wires, and financial tools with a strong developer focus. | Free | No monthly fees, free domestic/USD international wires |
-| **[Brex](https://www.brex.com/)** | Corporate card and business banking platform widely used by venture-backed companies. | Free (Premium tiers exist) | No monthly fees or minimums |
-| **[Rho](https://www.rho.co/)** | All-in-one finance platform combining banking, cards, bill pay, expenses, and treasury for startups and scale-ups. | Free | No monthly fees or minimums, free wires |
-| **[Relay Financial](https://relayfi.com/)** | Business banking focused on multi-account cash management and team spending controls. | Free (Pro is $30/mo) | Up to 20 checking accounts, 50 virtual cards |
-| **[Bluevine](https://www.bluevine.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free (Premier is $95/mo) | Unlimited transactions, no minimum balance |
-| **[Found](https://found.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free (Plus is $19.99/mo) | Unlimited invoicing, standard transactions |
-| **[Novo](https://www.novo.co/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free | No monthly fees, free ACH transfers |
-| **[NorthOne](https://www.northone.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | $10/month | No free tier |
-| **[Grasshopper](https://www.grasshopper.bank/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free | Unlimited transactions, cash back on debit |
-| **[Meow](https://www.meow.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Custom | N/A |
+| Platform | Description | Pricing | Free Tier Limit | Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Brex](https://www.brex.com/)** | Corporate card and business banking platform widely used by venture-backed companies. | Free (Premium tiers exist) | No monthly fees or minimums | $12.3B |
+| **[Mercury](https://mercury.com/)** | Popular business banking platform for startups, offering checking accounts, cards, wires, and financial tools with a strong developer focus. | Free | No monthly fees, free domestic/USD international wires | $1.6B |
+| **[Bluevine](https://www.bluevine.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free (Premier is $95/mo) | Unlimited transactions, no minimum balance | $1.0B |
+| **[Novo](https://www.novo.co/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free | No monthly fees, free ACH transfers | $700M |
+| **[Rho](https://www.rho.co/)** | All-in-one finance platform combining banking, cards, bill pay, expenses, and treasury for startups and scale-ups. | Free | No monthly fees or minimums, free wires | $150M |
+| **[Relay Financial](https://relayfi.com/)** | Business banking focused on multi-account cash management and team spending controls. | Free (Pro is $30/mo) | Up to 20 checking accounts, 50 virtual cards | $140M |
+| **[Found](https://found.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free (Plus is $19.99/mo) | Unlimited invoicing, standard transactions | $130M |
+| **[NorthOne](https://www.northone.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | $10/month | No free tier | $120M |
+| **[Grasshopper](https://www.grasshopper.bank/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Free | Unlimited transactions, cash back on debit | $110M |
+| **[Meow](https://www.meow.com/)** | Digital business banking and cash-management solutions serving startups, small businesses, and freelancers. | Custom | N/A | $100M |
 
 ## 🔓 Open-Source Software
 
 ### Open-Source Core Banking & Neobank Infrastructure
-- **[Apache Fineract](https://fineract.apache.org/)** — The most established open-source core banking platform. Provides accounts, loans, savings, transactions, and portfolio management. Widely used as the foundation for digital financial services and can power business banking products when paired with a licensed bank or BaaS partner.
-- **[FinAegis](https://finaegis.org/)** — Modern open-source core banking infrastructure built with domain-driven design, event sourcing, and CQRS. Includes modules for accounts, payments, compliance, multi-asset support, and Banking-as-a-Service patterns.
+- **[Apache Fineract] <a href="https://github.com/apache/fineract/stargazers"><img src="https://img.shields.io/github/stars/apache/fineract?style=social&color=white" alt="stars"></a>(https://fineract.apache.org/)** — The most established open-source core banking platform. Provides accounts, loans, savings, transactions, and portfolio management. Widely used as the foundation for digital financial services and can power business banking products when paired with a licensed bank or BaaS partner.
+- **[FinAegis] <a href="https://github.com/finaegis/finaegis/stargazers"><img src="https://img.shields.io/github/stars/finaegis/finaegis?style=social&color=white" alt="stars"></a>(https://finaegis.org/)** — Modern open-source core banking infrastructure built with domain-driven design, event sourcing, and CQRS. Includes modules for accounts, payments, compliance, multi-asset support, and Banking-as-a-Service patterns.
 - Emerging open-source neobank and ledger projects (search GitHub for production-grade double-entry ledgers and microservices-based banking platforms) that demonstrate full account, wallet, and transaction systems.
 
 ### Supporting Open-Source Fintech Building Blocks
